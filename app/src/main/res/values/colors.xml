@@ -4,8 +4,8 @@
     <color name="colorPrimaryDark">#087404</color>
     <color name="colorAccent">#cc4307</color>
     <color name="blue">#5040ff</color>
-    <!-- Color for odds in the football game -->
-    <color name="odd1">#4A7BA7</color>
-    <color name="odd2">#FF11CA0A</color>
+    <!-- Color for odds2 in the football game -->
+    <color name="odd2">#4A7BA7</color>
+    <color name="odd1">#FF11CA0A</color>
     <color name="odd3">#FFF46A0E</color>
 </resources>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Background circle for the magnitude value -->
+<!-- Background circle for the odds2 value -->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
-    <solid android:color = "@color/odd1"/>
+    <solid android:color = "@color/odd2"/>
     <size
         android:width= "30dp"
         android:height="30dp"/>

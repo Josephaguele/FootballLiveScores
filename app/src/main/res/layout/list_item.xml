@@ -142,7 +142,7 @@
             android:id="@+id/o1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/magnitude_circle"
+            android:background="@drawable/odds1"
             android:gravity="center"
             android:text="4.3"
             android:textColor="@android:color/white"
@@ -154,7 +154,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="40dp"
-            android:background="@drawable/magnitude_circle"
+            android:background="@drawable/odds2"
             android:gravity="center"
             android:text="8.3"
             android:textColor="@android:color/white" />
@@ -164,7 +164,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="36dp"
-            android:background="@drawable/magnitude_circle"
+            android:background="@drawable/odds3"
             android:gravity="center"
             android:text="5.0"
             android:textColor="@android:color/white" />
